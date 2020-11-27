@@ -18,7 +18,7 @@ export default function Hero() {
                 👋
               </span>{' '}
             </span>
-            I'm a <span className="gatsby">Gatsby JS</span> static website
+            I'm a <span className="gatsby">Anto Wiranto</span> static website
             template
           </h1>
         </div>
@@ -505,9 +505,8 @@ export default function Hero() {
           </svg>
         </div>
         <h2>
-          I'm a Gatsby JS starter pre-packed with Emotion and Tailwind CSS. I
-          come with some cool modern features, like lazy-loading images, code
-          and data splitting, and offline support. Check out the source code{' '}
+         
+{' '}
           <a
             href="https://github.com/chrismwilliams/gatsby-emotion-tailwind-starter"
             target="_blank"
