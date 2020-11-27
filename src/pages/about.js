@@ -58,41 +58,17 @@ export default function aboutPage() {
             </ul>
           </div>
           <div className="section features">
-            <h2>Features</h2>
+            <h2>I Can</h2>
             <ul>
-              <li>Lazy loading</li>
-              <li>Support for Google Analytics</li>
-              <li>Mobile friendly through Tailwind's utility classes</li>
-              <li>SEO friendly</li>
-              <li>Offline support</li>
-              <li>
-                Host your own static website on{' '}
-                <a
-                  href="https://www.netlify.com/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Netlify
-                </a>
-                ,{' '}
-                <a
-                  href="https://vercel.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Vercel
-                </a>
-                ,{' '}
-                <a
-                  href="https://surge.sh/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Surge
-                </a>
-                , and many more!
-              </li>
-            </ul>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>JAVA SCRIPT</li>
+              <li>PHP</li>
+              <li>C++</li>
+              <li>Laravel
+</li>
+              <li>CodeIgniter</li>
+             </ul>
           </div>
         </div>
       </StyledAboutPg>
