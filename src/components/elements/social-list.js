@@ -13,8 +13,8 @@ export default function SocialList(props) {
     <StyledSocialList className="social-list" {...props}>
       <li>
         <a
-          href="https://github.com/chrismwilliams/gatsby-emotion-tailwind-starter"
-          aria-label="github repo"
+          href="https://github.com/antowrnto"
+
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -23,8 +23,8 @@ export default function SocialList(props) {
       </li>
       <li>
         <a
-          href="https://github.com/chrismwilliams/gatsby-emotion-tailwind-starter"
-          aria-label="github repo"
+          href="https://github.com/antowrnto"
+         
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -34,8 +34,8 @@ export default function SocialList(props) {
       </li>
       <li>
         <a
-          href="https://github.com/chrismwilliams/gatsby-emotion-tailwind-starter"
-          aria-label="github repo"
+          href="https://github.com/antowrnto"
+          
           target="_blank"
           rel="noopener noreferrer"
         >
