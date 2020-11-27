@@ -6,8 +6,8 @@ export default function indexPage() {
   return (
     <Layout>
       <SEO
-        title="Home"
-        description="Home page for a Gatsby Starter, featuring Emotion and Tailwind css"
+        title="Anto Wiranto"
+        description="My website persoanl for portfolio"
       />
       <Hero />
       <CardGrid />
