@@ -18,8 +18,8 @@ export default function Hero() {
                 👋
               </span>{' '}
             </span>
-            I'm a <span className="gatsby">Anto Wiranto</span> static website
-            template
+            I'm a <span className="gatsby">Anto Wiranto</span> I Am student
+  
           </h1>
         </div>
         <div className="hero-img">
