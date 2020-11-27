@@ -20,7 +20,7 @@ export default function Footer() {
       <p className="author">
         Created by{' '}
         <a
-          href="https://github.com/chrismwilliams/gatsby-emotion-tailwind-starter"
+          href="https://github.com/antowrnto"
           target="_blank"
           rel="noopener noreferrer"
         >
