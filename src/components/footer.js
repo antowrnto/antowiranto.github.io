@@ -14,7 +14,7 @@ export default function Footer() {
         <svg>
           <use xlinkHref="/logo.svg#logo" />
         </svg>
-        {siteMetadata.title}
+        Portfolio Anto Wiranto
       </p>
       <SocialList />
       <p className="author">
