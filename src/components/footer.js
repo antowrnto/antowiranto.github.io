@@ -24,7 +24,7 @@ export default function Footer() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          {siteMetadata.author}
+          Anto Wiranto 👑
         </a>
       </p>
     </StyledFooter>
