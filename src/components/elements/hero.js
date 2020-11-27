@@ -507,28 +507,9 @@ export default function Hero() {
         <h2>
          Hello, my name is Anto Wiranto, I am currently studying at a vocational high school majoring in software engineering, I am also a member of the Github Student, I have the motivation to become a programmer and want to become a programmer, I am currently studying IoT, web development and Arduino for microcontrollers
 {' '}
-          <a
-            href="https://github.com/chrismwilliams/gatsby-emotion-tailwind-starter"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            here
-          </a>{' '}
-          and go build something cool!
+          
         </h2>
-        <div className="tech">
-          <ul>
-            <li>
-              <Img fluid={gatsbyImg.childImageSharp.fluid} />
-            </li>
-            <li>
-              <Img fluid={emotionImg.childImageSharp.fluid} />
-            </li>
-            <li>
-              <Img fluid={tailwindImg.childImageSharp.fluid} />
-            </li>
-          </ul>
-        </div>
+        
       </div>
     </StyledHero>
   );
