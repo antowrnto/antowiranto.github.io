@@ -10,7 +10,7 @@ export default function indexPage() {
         description="My website persoanl for portfolio"
       />
       <Hero />
-
+     <CardGrid />
     </Layout>
   );
 }
